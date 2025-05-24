@@ -20,3 +20,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aayush-05&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
