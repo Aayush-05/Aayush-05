@@ -1,5 +1,12 @@
-# 💫 About Me:
-🔭 I’m currently working on a lightweight Small Language Model (SLM), a hand-tracking project using TouchDesigner, and a vision-assistant system for the visually impaired.<br>👯 I’m looking to collaborate on data science projects, AI startups, or any research involving NLP and financial analytics.<br>🤝 I’m looking for help with integrating advanced model architectures into production-ready pipelines and optimizing backend performance.<br>🌱 I’m currently learning Small Language Models and AI Agents—because why stop at just one rabbit hole?<br>💬 Ask me about data analytics in finance, real-time machine learning systems, or how not to break your code at 3 AM.<br>⚡ Fun fact I once scrapped an entire project just to rebuild it better—turns out chaos can be productive.
+# About Me:
+I’m a final-year B.Tech student and aspiring Machine Learning Engineer, passionate about building real-world AI systems that solve practical problems—especially in healthcare, finance, and human-computer interaction.<br>🚀 What I’m Working On<br>AI Triage Assistant – A healthcare-first chatbot integrating LLMs with real-time triage logic<br>Voila – A stock market price predictor using time-series modeling and financial indicators<br>🔎 Open To<br>Internships and Full-time roles in:<br>
+	Machine Learning Engineering<br>
+	ML Infrastructure & Ops<br>
+	Applied NLP and AI in Healthcare/Finance<br>
+Collaborations on impactful AI research or product builds<br>
+🧠 Interests & Stack<br>
+Tech: Python, TensorFlow, FastAPI, OpenCV, LLMs, RAG, React<br>
+Topics: ML Ops, AI agents, scalable backend systems, real-time inference, human-centered AI
 
 
 ## 🌐 Socials:
