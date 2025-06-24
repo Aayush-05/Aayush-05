@@ -1,5 +1,9 @@
 # About Me:
-I’m a final-year B.Tech student and aspiring Machine Learning Engineer, passionate about building real-world AI systems that solve practical problems—especially in healthcare, finance, and human-computer interaction.<br>🚀 What I’m Working On<br>AI Triage Assistant – A healthcare-first chatbot integrating LLMs with real-time triage logic<br>Voila – A stock market price predictor using time-series modeling and financial indicators<br>🔎 Open To<br>Internships and Full-time roles in:<br>
+I’m a final-year B.Tech student and aspiring Machine Learning Engineer, passionate about building real-world AI systems that solve practical problems—especially in healthcare, finance, and human-computer interaction.<br>
+🚀 What I’m Working On<br>
+AI Triage Assistant – A healthcare-first chatbot integrating LLMs with real-time triage logic - Link: https://huggingface.co/spaces/Agents-MCP-Hackathon/HealthMateAI-Medical-Triage-Assistant<br>
+Voila – A stock market price predictor using time-series modeling and financial indicators Link: https://voilagit-stockpridiction.streamlit.app<br>
+🔎 Open To<br>Internships and Full-time roles in:<br>
 	Machine Learning Engineering<br>
 	ML Infrastructure & Ops<br>
 	Applied NLP and AI in Healthcare/Finance<br>
